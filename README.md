@@ -1,2 +1,2 @@
-# CSCI-166-Project
+# CSCI 166 Project
 Term Project
