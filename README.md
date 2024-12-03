@@ -1,2 +1,2 @@
 # CSCI 166 Project
-Term Project
+Authors: Izaiah Benavides, Charith Kondapally, Mateo Nuñez
